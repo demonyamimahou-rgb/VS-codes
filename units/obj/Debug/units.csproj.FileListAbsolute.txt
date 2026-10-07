@@ -1,0 +1,10 @@
+C:\Users\Lanz\source\repos\units\bin\Debug\units.exe.config
+C:\Users\Lanz\source\repos\units\bin\Debug\units.exe
+C:\Users\Lanz\source\repos\units\bin\Debug\units.pdb
+C:\Users\Lanz\source\repos\units\obj\Debug\units.csproj.AssemblyReference.cache
+C:\Users\Lanz\source\repos\units\obj\Debug\units.Form1.resources
+C:\Users\Lanz\source\repos\units\obj\Debug\units.Properties.Resources.resources
+C:\Users\Lanz\source\repos\units\obj\Debug\units.csproj.GenerateResource.cache
+C:\Users\Lanz\source\repos\units\obj\Debug\units.csproj.CoreCompileInputs.cache
+C:\Users\Lanz\source\repos\units\obj\Debug\units.exe
+C:\Users\Lanz\source\repos\units\obj\Debug\units.pdb
